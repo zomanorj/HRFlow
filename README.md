@@ -204,8 +204,8 @@ frontend/
 ### Cloner le projet
 
 ```bash
-git clone https://github.com/votre-compte/hrflow.git
-cd hrflow
+git clone https://github.com/zomanorj/HRFlow.git
+cd HRFlow
 ```
 
 ---
